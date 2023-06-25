@@ -1,0 +1,41 @@
+NORMAL (accept) <-- the start state 
+    /:  COMMENTSTART
+    ':  CHARLOPEN
+    ":  STRINGLOPEN
+    other:  NORMAL
+
+COMMENTSTART (accept) 
+    *: COMMENT 
+    ': CHARLOPEN
+    ": STRINGLOPEN
+    /: COMMENTSTART
+    other: NORMAL
+
+COMMENT (reject)
+    *:  COMMENTCLOSE
+    /:  NESTEDCOM
+    other: COMMENT 
+
+NESTEDCOM (reject)
+    any: COMMENT
+
+COMMENTCLOSE (reject)
+    /: NORMAL
+    *: COMMENTCLOSE
+    other: COMMENT
+
+STRINGLOPEN (accept)
+    ": NORMAL
+    \: ESCAPEDSTRING
+    other: STRINGLOPEN
+
+CHARLOPEN (accept)
+    ': NORMAL
+    \: ESCAPEDCHAR
+    ': CHARLOPEN
+
+ESCAPEDSTRING (accept)
+    any: STRINGLOPEN
+
+ESCAPEDCHAR (accept)
+    any: CHARLOPEN
