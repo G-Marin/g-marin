@@ -1,16 +1,15 @@
-# Autocomplete
+# Symbol Table Module
 
 ## Description
-Provide a brief overview of the project, its purpose, and its goals. Explain what problem it solves or what value it offers to users. Include any relevant background information or context.
-
-## Features
-List the key features and functionalities of the project. Highlight the main capabilities that users can expect from your project.
-
-## Screenshots
-Include one or more screenshots of your project in action. You can add images using Markdown syntax or by linking to image files.
+The Symbol Table Module is a project that involves creating an Abstract Data Type (ADT) named SymTable. This ADT represents a symbol table and offers two implementations: one using a linked list and another using a hash table. The purpose of this module is to provide a generic symbol table that can store key-value pairs of any type. It allows users to add, replace, retrieve, and remove key-value bindings.
 
 ## Technologies Used
-List the technologies, frameworks, libraries, or tools used in the project. This gives users an idea of the underlying technologies employed in your project.
+- C programming language
 
-## Contributing
-Explain how others can contribute to your project. Include guidelines for bug reports, feature requests, and pull requests. Specify any coding conventions or standards that contributors should follow. Provide information on how to set up the development environment and run tests, if applicable.
+## File Descriptions
+
+- `symtablelist.c`: Implementation of the SymTable ADT using a linked list for efficient memory management and constant-time length retrieval.
+- `symtablehash.c`: Implementation of the SymTable ADT using a hash table with separate chaining for efficient storage and retrieval of bindings. It dynamically expands the number of buckets to accommodate a growing number of bindings.
+- `symtable.h`: Interface and function declarations for the SymTable ADT. Users can include this header file in their projects to use the SymTable module.
+
+
