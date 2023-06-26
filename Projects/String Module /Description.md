@@ -12,6 +12,6 @@ The String Module is a C programming project that aims to provide versions of th
 
 - `strp.c`: Contains the implementation of the string handling functions using pointer notation.
 - `stra.c`: Contains the implementation of the string handling functions using array notation.
-- 'replace.c': Replaces occurrences of a specified string with another string in a given input text.
+- `replace.c`: Replaces occurrences of a specified string with another string in a given input text.
 
 
