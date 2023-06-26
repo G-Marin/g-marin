@@ -13,3 +13,6 @@ The Seam Carver project involves implementing a content-aware image resizing tec
 - `SeamCarver.java`: Contains the implementation of the `SeamCarver` class, which resizes an image using the seam carving technique.
 
 Note: This project was completed as part of a collaboration with a partner.
+
+
+![SeamCarvingGif](https://andrewdcampbell.github.io/images/blog/seam_carving.gif)
