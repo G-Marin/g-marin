@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Gabriel  👋 </h1>
+<h3 align="center">🚀 Developer | Junior at Princeton University  🚀</h3>
+<div>
+<img width="35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left">
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**G-Marin/g-marin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤔 &nbsp; Currently exploring Django and Flask
+  - 🎓 &nbsp; Studying Computer Science and Engineering with a certificate in statistics and machine learning
+  - 🌱 &nbsp; Learning more about Frontend development.
+  - ✍️ &nbsp; Love all things soccer, games, technology, and physical fitness.
+</div>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  
+  - C
+  - Java
+  - Github
+  - Git
+  - Assembly
+  - GDB Debugger
+  - Valgrind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3> 🚀 Upcoming Skills and Tools</h3>
+  <h4> 🍂 Fall 2023</h4>
+  <ul>
+    <li>R</li>
+    <li>Python</li>
+  </ul>
+  <h4> 🌳 Spring 2024</h4>
+  <ul>
+    <li>SQL</li>
+    <li>PyQt5</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Flask</li>
+    <li>Javascript</li>
+  </ul>
+</div>
