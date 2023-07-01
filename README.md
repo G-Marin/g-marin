@@ -40,4 +40,6 @@
   </ul>
 </div>
 
-Make sure to check out some of my [Projects!](/Projects)
+## Projects
+
+Make sure to check out some of my Projects [here!](/Projects)
