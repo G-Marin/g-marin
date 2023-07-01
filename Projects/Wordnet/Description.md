@@ -6,7 +6,7 @@ WordNet
 Description
 This project implements WordNet, a semantic lexicon for the English language widely used in computational linguistics and cognitive science. WordNet groups words into sets of synonyms called synsets and describes semantic relationships between synsets. It serves as a valuable resource for natural language processing tasks, information retrieval, and various other applications in the field.
 
-## Languages & Tools Used: 
+## Languages & Tools
 - Java
 
 ## File Descriptions:
