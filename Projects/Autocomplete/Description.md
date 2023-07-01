@@ -7,11 +7,7 @@ Autocomplete is a widely-used feature in modern applications, making user experi
 
 This project was developed in collaboration with a partner.
 
-## Features
-- Swift and efficient predictions of completions based on a given prefix.
-- Relevant suggestions displayed first, thanks to intelligent ranking based on query weight.
-
-## Technologies Used
+## Languages & Tools
 - Java
 
 ## File Descriptions
