@@ -8,8 +8,8 @@ The Symbol Table Module is a project that involves creating an Abstract Data Typ
 
 ## File Descriptions
 
-- `symtablelist.c`: Implementation of the SymTable ADT using a linked list for efficient memory management and constant-time length retrieval.
+- `symtablelist.c`: Implementation of the SymTable ADT using a linked list for efficient memory management.
 - `symtablehash.c`: Implementation of the SymTable ADT using a hash table with separate chaining for efficient storage and retrieval of bindings. It dynamically expands the number of buckets to accommodate a growing number of bindings.
-- `symtable.h`: Interface and function declarations for the SymTable ADT. Users can include this header file in their projects to use the SymTable module.
+- `symtable.h`: Interface and function declarations for the SymTable ADT. 
 
 
