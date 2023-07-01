@@ -6,18 +6,7 @@ The Deque project is a Java program that implements a double-ended queue (deque)
 ## Randomized Queue Description
 The Randomized Queue project is a Java program that implements a randomized queue data structure. It is similar to a stack or queue, but the item removed is chosen uniformly at random among the items in the collection. The program provides a generic data type called `RandomizedQueue` with operations for adding and removing items, sampling a random item without removal, and iterating over the items in a random order.
 
-## Features
-- **Deque**
-  - Add and remove items from the front or back of the deque.
-  - Check if the deque is empty and get the number of items.
-  - Iterate over the items from front to back.
-
-- **Randomized Queue**
-  - Add and remove items in a randomized order.
-  - Sample a random item without removing it.
-  - Iterate over the items in a random order.
-
-## Technologies Used
+## Languages & Tools
 - Java
 
 ## File Descriptions
