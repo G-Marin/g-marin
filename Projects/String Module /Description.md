@@ -4,7 +4,7 @@
 
 The String Module is a C programming project that aims to provide versions of the most commonly used standard string handling functions in the C language. It consists of two files, `strp.c` and `stra.c`, which implement the functions using pointer notation and array notation, respectively. The `strp.c` file contains the implementation of the string handling functions using pointer notation. The `stra.c` file implements the string handling functions using array notation. 
 
-## Technologies Used
+## Languages & Tools
 
 - C programming language
 
