@@ -1,9 +1,7 @@
 # Autocomplete
 
 ## Description
-The Autocomplete project is a Java program that brings the power of autocomplete to your fingertips. It predicts and suggests completions for a given set of queries, arranged in descending order of relevance.
-
-Autocomplete is a widely-used feature in modern applications, making user experiences smoother and faster. Imagine typing a query and having the program intelligently predict and display the most likely completions as you go. Autocomplete is commonly found in applications like the Internet Movie Database (IMDb), search engines, and even on cell phones to speed up text input.
+The Autocomplete project is a Java program that implements a program that predicts and suggests completions for a given set of queries, arranged in descending order of relevance. Autocomplete is a widely-used feature in modern applications, making user experiences smoother and faster.  Autocomplete is commonly found in applications like the Internet Movie Database (IMDb), search engines, and even on cell phones to speed up text input.
 
 This project was developed in collaboration with a partner.
 
