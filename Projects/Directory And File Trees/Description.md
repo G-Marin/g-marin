@@ -13,7 +13,7 @@ The project consists of three parts, each involving different tree data structur
 
 Collaboration with a partner was a key aspect of this project.
 
-## Technologies Used
+## Languages & Tools
 - C programming language
 - GDB debugger
 - Valgrind (for memory management analysis)
