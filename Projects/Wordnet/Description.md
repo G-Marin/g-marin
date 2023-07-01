@@ -1,16 +1,18 @@
-# Autocomplete
+# WordNet
 
-## Description
-Provide a brief overview of the project, its purpose, and its goals. Explain what problem it solves or what value it offers to users. Include any relevant background information or context.
+## Description: 
 
-## Features
-List the key features and functionalities of the project. Highlight the main capabilities that users can expect from your project.
+WordNet
+Description
+This project implements WordNet, a semantic lexicon for the English language widely used in computational linguistics and cognitive science. WordNet groups words into sets of synonyms called synsets and describes semantic relationships between synsets. It serves as a valuable resource for natural language processing tasks, information retrieval, and various other applications in the field.
 
-## Screenshots
-Include one or more screenshots of your project in action. You can add images using Markdown syntax or by linking to image files.
+## Languages & Tools Used: 
+- Java
 
-## Technologies Used
-List the technologies, frameworks, libraries, or tools used in the project. This gives users an idea of the underlying technologies employed in your project.
+## File Descriptions:
 
-## Contributing
-Explain how others can contribute to your project. Include guidelines for bug reports, feature requests, and pull requests. Specify any coding conventions or standards that contributors should follow. Provide information on how to set up the development environment and run tests, if applicable.
+- `WordNet.java`: WordNet data type implementation with methods for handling WordNet nouns, checking noun existence, finding the shortest common ancestor, calculating distance between nouns, and performing unit testing.
+
+- `ShortestCommonAncestor.java`: Shortest common ancestor data type implementation with methods for finding shortest ancestral paths, common ancestors, and performing unit testing.
+
+- `Outcast.java`: Outcast detection data type implementation with methods for identifying the least related noun from a list of WordNet nouns based on the sum of distances to other nouns.
