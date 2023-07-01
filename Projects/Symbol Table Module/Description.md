@@ -3,7 +3,7 @@
 ## Description
 The Symbol Table Module is a project that involves creating an Abstract Data Type (ADT) named SymTable. This ADT represents a symbol table and offers two implementations: one using a linked list and another using a hash table. The purpose of this module is to provide a generic symbol table that can store key-value pairs of any type. It allows users to add, replace, retrieve, and remove key-value bindings.
 
-## Technologies Used
+## Languages & Tools
 - C programming language
 
 ## File Descriptions
