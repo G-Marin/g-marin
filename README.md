@@ -40,4 +40,4 @@
   </ul>
 </div>
 
-Make sure to check out some of my [Projects!](g-marin/Projects)
+Make sure to check out some of my [Projects!](/Projects)
