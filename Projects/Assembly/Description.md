@@ -23,5 +23,9 @@ The BigInt ADT performs high precision integer arithmetic. It is a minimal ADT; 
 - `bigintadd.c`: contains an implementation of the BigInt_add function.
 - `bigintprivate.h`: is a private header file — private in the sense that clients never use it. It allows code to be shared between the two implementation files, bigint.c and bigintadd.c
 - `fib.c`: The client accepts an integer x as a command-line argument, where x must be a non-negative integer. The client computes and writes fib(x) to stdout as a hexadecimal number. Then it writes to stderr the amount of CPU time consumed while performing the computation. Finally the client performs some boundary condition and stress tests, writing the results to stdout. The client module delegates most of the work to BigInt objects.
-- `bigintprivate.h`: is a private header file — private in the sense that clients never use it. It allows code to be shared between the two implementation files, bigint.c and bigintadd.c.
-- `bigintprivate.h`: is a private header file — private in the sense that clients never use it. It allows code to be shared between the two implementation files, bigint.c and bigintadd.c.
+- `bigintaddflat.c`: Contains the bigintadd.c implemention in flat format ready for translation to assembly
+- `bigintadd.s`: This is a simple assembly translation from the bigintadd.c program with no optimizations
+- `bigintaddopt.s`: This is the second assembly translation of the bigintadd.c program with optimizations by using callee-saved registers, .equ directives, and .req directives
+- `bigintoptopt.s`: This is the most optimized version of the assembly code that beats the compiler by optimizing through the use of adcs, guarded loops, and inlining. 
+  
+  
