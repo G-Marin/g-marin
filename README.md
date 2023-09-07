@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 💻 &nbsp; Currently exploring Django and Flask
-  - 🎓 &nbsp; Studying Computer Science with a certificate in statistics and machine learning
+  - 🎓 &nbsp; Studying Computer Science with a minor in statistics and machine learning
   - 🌱 &nbsp; Learning more about Frontend development.
   - ⚽ &nbsp; Love all things soccer, games, technology, and physical fitness.
 </div>
