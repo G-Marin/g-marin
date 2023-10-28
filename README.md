@@ -5,9 +5,9 @@
 <div align="left">
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 💻 &nbsp; Currently exploring R and Python
+  - 💻 &nbsp; Currently exploring R, Python, and NumPy usage in Machine Learning. 
   - 🎓 &nbsp; Studying Computer Science with a minor in statistics and machine learning
-  - 🌱 &nbsp; Learning more about Frontend development.
+  - ✍️ &nbsp; Currently writing a machine learning paper prosposal 
   - ⚽ &nbsp; Love all things soccer, games, technology, and physical fitness.
 </div>
 </div>
@@ -16,6 +16,10 @@
   <h3> 💻 Languages and Tools </h3>
   
   - C
+  - Python
+  - NumPy
+  - R
+  - RStudio
   - Java
   - Github
   - Git
@@ -24,11 +28,6 @@
   - Valgrind
 
   <h3> 🚀 Upcoming Skills and Tools</h3>
-  <h4> 🍂 Fall 2023</h4>
-  <ul>
-    <li>R</li>
-    <li>Python</li>
-  </ul>
   <h4> 🌳 Spring 2024</h4>
   <ul>
     <li>SQL</li>
