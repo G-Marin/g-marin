@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! I'm Gabriel  👋 </h1>
-<h3 align="center">🚀 Developer | Rising Junior at Princeton University  🚀</h3>
+<h3 align="center">🚀 Developer | Junior at Princeton University  🚀</h3>
 <div>
 <img width="35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left">
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 💻 &nbsp; Currently exploring R, Python, and NumPy usage in Machine Learning. 
+  - 💻 &nbsp; Currently exploring Web Applications! 
   - 🎓 &nbsp; Studying Computer Science with a minor in statistics and machine learning
-  - ✍️ &nbsp; Currently writing a machine learning paper prosposal 
+  - ✍️ &nbsp; Currently writing a machine learning paper in machine learning algorithms in medicine.  
   - ⚽ &nbsp; Love all things soccer, games, technology, and physical fitness.
 </div>
 </div>
