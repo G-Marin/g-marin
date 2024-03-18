@@ -16,6 +16,12 @@
   <h3> 💻 Languages and Tools </h3>
   
   - C
+  - SQL
+  - PyQt5
+  - HTML
+  - CSS
+  - Flask
+  - Javascript
   - Python
   - NumPy
   - R
@@ -27,16 +33,6 @@
   - GDB Debugger
   - Valgrind
 
-  <h3> 🚀 Upcoming Skills and Tools</h3>
-  <h4> 🌳 Spring 2024</h4>
-  <ul>
-    <li>SQL</li>
-    <li>PyQt5</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Flask</li>
-    <li>Javascript</li>
-  </ul>
 </div>
 
 ## Projects
