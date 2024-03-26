@@ -7,7 +7,7 @@
 
   - 💻 &nbsp; Currently exploring Web Applications! 
   - 🎓 &nbsp; Studying Computer Science with a minor in statistics and machine learning
-  - ✍️ &nbsp; Currently writing a machine learning paper in machine learning algorithms in medicine.  
+  - ✍️ &nbsp; Currently writing a machine learning paper in machine learning algorithms in medicine and a soccer-data web app! 
   - ⚽ &nbsp; Love all things soccer, games, technology, and physical fitness.
 </div>
 </div>
@@ -37,4 +37,4 @@
 
 ## Projects
 
-Make sure to check out some of my Projects [here!](/Projects)
+Make sure to check out some of my Projects.
