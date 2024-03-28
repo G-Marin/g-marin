@@ -37,4 +37,4 @@
 
 ## Projects
 
-You can find some of my more notable projects in my repositories and website. A full list of projects is <a href = "https://github.comhere:](https://github.com/G-Marin/g-marin/tree/main/Projects"> here </a>
+You can find some of my more notable projects in my repositories and website. A full list of projects is <a href = "https://github.com/G-Marin/g-marin/tree/main/Projects"> here </a>
