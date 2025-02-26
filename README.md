@@ -1,14 +1,12 @@
 <h1 align="center">Hey there! I'm Gabriel  👋 </h1>
-<h3 align="center"> Software Development Intern @ Everest Re Group | Rising Senior at Princeton University  🚀</h3>
+<h3 align="center"> Incoming SWE @ Meta | Senior at Princeton University  🚀</h3>
 <div>
 <img width="35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left">
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 💻 &nbsp; Currently exploring C++!
-  - 📖 &nbsp; Currently reading C++ Programming Language, The 4th Edition by Bjarne Stroustrup.
+  - 💻 &nbsp; Currently exploring Golang and Distributed Systems. 
   - 🎓 &nbsp; Studying Computer Science with a minor in statistics and machine learning.
-  - ✍️ &nbsp; Currently interning at Everest Re Group as a Software Development Intern. 
   - ⚽ &nbsp; Love all things soccer, games, technology, and physical fitness.
 </div>
 </div>
